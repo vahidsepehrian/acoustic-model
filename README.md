@@ -178,3 +178,15 @@ If you found this work helpful please consider citing our paper:
     year={2022}
 }
 ```
+Article 14
+The speaker (tone) can distinguish between strong and weak sound. Make the louder text bigger and the weaker text thinner.
+Recognize different sounds that have different wavelengths in a speech.
+
+Articles 11 and 12:
+An artificial intelligence that has the ability to convert words, images and 3D text to each other.
+
+Article 4:
+By using the parallel method, it is possible to identify each person's voice completely separately in a conversation two by two.
+
+Article 8:
+The system automatically combines multiple conversations and uses artificial intelligence to obtain a unique output from the combination of multiple conversations.
